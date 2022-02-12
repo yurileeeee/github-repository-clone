@@ -30,5 +30,6 @@ module.exports = {
     "react/jsx-props-no-spreading": "off",
     "react/prop-types": "off",
     "no-unused-vars": "off",
+    "react/jsx-no-useless-fragment": "off"
   },
 };
